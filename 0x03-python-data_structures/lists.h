@@ -22,4 +22,4 @@ listint_t *get_nodeint_at_index(listint_t *head, unsigned int index);
 int is_palindrome(listint_t **head);
 size_t listint_len(const listint_t *h);
 
-#endif
+#endif /* LISTS_H */
